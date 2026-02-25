@@ -3,7 +3,7 @@
 [CVPR 2026] Code release for "Seeing as Experts Do: A Knowledge-Augmented Agent for Open-Set Fine-Grained Visual Understanding".
 
 <p align="center">
-    <img src="Method.jpg" width= "1000">
+    <img src="Method.png" width= "1000">
 </p>
 
 
