@@ -1,4 +1,4 @@
-# Knowledge-Augmented Fine-Grained Reasoning Agent (KFRA)
+# Knowledge-Augmented Fine-Grained Reasoning Agent
 
 [CVPR 2026] Code release for "Seeing as Experts Do: A Knowledge-Augmented Agent for Open-Set Fine-Grained Visual Understanding".
 
